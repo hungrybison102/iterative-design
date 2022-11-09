@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/iterative-design/static/css/main.f80c948d.css",
-    "main.js": "/iterative-design/static/js/main.1fb7bf7a.js",
+    "main.css": "/iterative-design/static/css/main.35881486.css",
+    "main.js": "/iterative-design/static/js/main.38e8b353.js",
     "static/js/787.dc0200dd.chunk.js": "/iterative-design/static/js/787.dc0200dd.chunk.js",
     "static/media/figma.png": "/iterative-design/static/media/figma.078257977478e45f4be5.png",
     "static/media/C1.png": "/iterative-design/static/media/C1.21d09ca3a3783da909a0.png",
@@ -20,7 +20,13 @@
     "static/media/L4.png": "/iterative-design/static/media/L4.d14f5807b312870fb9b2.png",
     "static/media/W3.png": "/iterative-design/static/media/W3.d54e2533ab0e13ad15ef.png",
     "static/media/W2.png": "/iterative-design/static/media/W2.bf75a469d041b9b19cb3.png",
+    "static/media/Co4.png": "/iterative-design/static/media/Co4.31c3edddfe160ef80e46.png",
+    "static/media/Co3.png": "/iterative-design/static/media/Co3.48fe94f5a94434efd413.png",
     "static/media/W1.png": "/iterative-design/static/media/W1.644e65e3d97a16e0dcb8.png",
+    "static/media/Co6.png": "/iterative-design/static/media/Co6.49e62e4e1c8f44c25bbc.png",
+    "static/media/Co2.png": "/iterative-design/static/media/Co2.65f475aaa696ca065af1.png",
+    "static/media/Co1.png": "/iterative-design/static/media/Co1.ae7689fc5b0913150557.png",
+    "static/media/Co5.png": "/iterative-design/static/media/Co5.811720d7c0677cbc5582.png",
     "static/media/roboto-latin-900italic.woff": "/iterative-design/static/media/roboto-latin-900italic.c20d916c1a1b094c1cec.woff",
     "static/media/roboto-latin-300italic.woff": "/iterative-design/static/media/roboto-latin-300italic.bd5b7a13f2c52b531a2a.woff",
     "static/media/roboto-latin-500italic.woff": "/iterative-design/static/media/roboto-latin-500italic.18d00f739ff1e1c52db1.woff",
@@ -48,12 +54,12 @@
     "static/media/FuturaLT.woff": "/iterative-design/static/media/FuturaLT.c7143ff2162a1e1bcc82.woff",
     "static/media/logo.svg": "/iterative-design/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/iterative-design/index.html",
-    "main.f80c948d.css.map": "/iterative-design/static/css/main.f80c948d.css.map",
-    "main.1fb7bf7a.js.map": "/iterative-design/static/js/main.1fb7bf7a.js.map",
+    "main.35881486.css.map": "/iterative-design/static/css/main.35881486.css.map",
+    "main.38e8b353.js.map": "/iterative-design/static/js/main.38e8b353.js.map",
     "787.dc0200dd.chunk.js.map": "/iterative-design/static/js/787.dc0200dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f80c948d.css",
-    "static/js/main.1fb7bf7a.js"
+    "static/css/main.35881486.css",
+    "static/js/main.38e8b353.js"
   ]
 }
